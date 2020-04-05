@@ -58,7 +58,7 @@ class word2vector:
 """ 
 Example:
   word2vector = word2vector()
-  word2vector.parse_word2vector('sgns.sikuquanshu.bigram')
+  word2vector.parse_word2vector('word2vector_bigram')
   print(word2vector.get_vector('李白'))
 """
 
